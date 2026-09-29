@@ -1,0 +1,2 @@
+domain.example.abc
+# hypercashiermenhir/zapret-youtube e1fa0ceec1fb
